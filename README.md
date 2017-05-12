@@ -12,4 +12,7 @@ Accompanied practice mode: used when you are accompanied with a human expert, wh
 
 This is a simple project finished with a hope that after getting the advice of your coach, you can make better use of your time at home in a way that you will not practive in a wrong way without knowing it. We hope the user can make better use of the 90% of time at home.
 
+Manager: Zhu Feng
+Developer: Zhang Qianhao, Gao Wei
+Data: Nie Lei, Chen Dengbo
 
